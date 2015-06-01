@@ -1,2 +1,2 @@
-# pyscripts
-A bunch of Python scripts
+# yapr
+Yet Another Python Repository
